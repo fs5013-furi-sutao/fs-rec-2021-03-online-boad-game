@@ -17,7 +17,7 @@
         <td>13:50 ～</td>
         <td>―</td>
         <td>開場</td>
-        <td>こちらから入場ください<br />FSオンラインボードゲーム大会・REMO：<br />https://live.remo.co/e/fs-4</td>
+        <td>こちらから入場ください<br />FSオンラインボードゲーム大会・REMO：<br /><br />https://live.remo.co/e/fs-4</td>
     </tr>
     <tr>
         <td>14:00 ～</td>
