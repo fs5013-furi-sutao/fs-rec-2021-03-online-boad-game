@@ -127,7 +127,7 @@
 
 ### 17:00 ～ 希望者が集まれば AmongUs をやります <img src="./handshake.gif" width="60">
 
-# ⬛ 🕢 今回のグループ分け
+# ⬛ 👩‍👩‍👧‍👦 今回のグループ分け
 
 <table>
     <tr>
@@ -236,7 +236,7 @@
 
 > ## ゲーム説明動画
 > 
-> [![](http://img.youtube.com/vi/_e4-8Q-Vzsc/0.jpg)](https://youtu.be/_e4-8Q-Vzsc)
+> [![](http://img.youtube.com/vi/_e4-8Q-Vzsc/0.jpg)](https://youtu.be/_e4-8Q-Vzsc)  
 > 初めての方にオススメのボードゲーム「ラブレター」遊び方解説：  
 > https://youtu.be/_e4-8Q-Vzsc
 
