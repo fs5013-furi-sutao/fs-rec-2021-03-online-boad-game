@@ -125,4 +125,4 @@
     </tr>
 </table>
 
-### 希望者が集まれば 17:00 ～ AmongUs をやります <img src="./handshake.gif" width="60">
+### 17:00 ～ 希望者が集まれば AmongUs をやります <img src="./handshake.gif" width="60">
