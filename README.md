@@ -156,15 +156,14 @@
 
 <table>
     <tr>
-        <td colspan="2"></td>
-        <td>A テーブル</td>
-        <td>B テーブル</td>
-        <td>C テーブル</td>
-        <td>D テーブル</td>
-        <td>E テーブル</td>
+        <th>1回目のテーブル</th>
+        <th>A テーブル</th>
+        <th>B テーブル</th>
+        <th>C テーブル</th>
+        <th>D テーブル</th>
+        <th>E テーブル</th>
     </tr>
     <tr>
-        <td rowspan="7">1回目のテーブル</td>
         <td>1</td>
         <td>中野義嗣</td>
         <td>奥原</td>
@@ -220,9 +219,20 @@
         <td>―</td>
         <td>松浦晴菜</td>
     </tr>
+</table>
+
+<table>
     <tr>
-        <td colspan="2">2回目のテーブル</td>
-        <td colspan="5">イス取りゲーム形式でテーブルチェンジします！</td>
+        <td rowspan="2">2回目のテーブル</td>
+        <td>ニムト [ １ ]</td>
+        <td>ニムト [ ２ ]</td>
+        <td>クー [ １ ]</td>
+        <td>クー [ ２ ]</td>
+        <td>ラブレター [ １ ]</td>
+        <td>ラブレター [ ２ ]</td>
+    </tr>
+    <tr>
+        <td colspan="6">イス取りゲーム形式でテーブルチェンジします！</td>
     </tr>
 </table>
 
