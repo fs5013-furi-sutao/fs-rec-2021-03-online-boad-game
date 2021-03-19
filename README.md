@@ -95,7 +95,7 @@
         <td>14:30 ～</td>
         <td>10分</td>
         <td>ゲーム①（ニムト）のやり方説明</td>
-        <td>奥原が説明します</td>
+        <td>奥原が説明します（<a href="https://youtu.be/KuxTF5JQKJc">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>14:40 ～</td>
@@ -120,7 +120,7 @@
         <td>15:05 ～</td>
         <td>10分</td>
         <td>ゲーム②（クー）のやり方説明</td>
-        <td>奥原が説明します</td>
+        <td>奥原が説明します（<a href="https://youtu.be/4To6XNGuXWA">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:15 ～</td>
@@ -145,7 +145,7 @@
         <td>15:40 ～</td>
         <td>10分</td>
         <td>ゲーム③（ラブレター）のやり方説明</td>
-        <td>奥原が説明します</td>
+        <td>奥原が説明します（<a href="https://youtu.be/_e4-8Q-Vzsc">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:50 ～</td>
