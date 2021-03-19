@@ -4,14 +4,15 @@
 
 ### ⬛ 事前準備のお願い
 
-今回のオンラインボードゲーム大会では、[ゲームボードアリーナ](https://ja.boardgamearena.com/) を利用します。
+今回のオンラインボードゲーム大会では、[ボードゲームアリーナ](https://ja.boardgamearena.com/) を利用します。
 
 <img src="./boad-game-arena-banner.png" width="240">
 
-ゲームボードアリーナを利用するには、サイトでのアカウント作成が必要です。
+ボードゲームアリーナを利用するには、サイトでのアカウント作成が必要です。
 
 以下のページにアカウント作成方法を記載しましたので、事前にアカウント作成をお願いします。
 
+ボードゲームアリーナ：  
 [https://github.com/fs5013-furi-sutao/fs-rec-2021-03-how-to-get-starting-online-boad-game/edit/main/README.md](./how-to-get-starting-online-boad-game.md)
 
 # ⬛ 🕢 タイムテーブル
