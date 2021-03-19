@@ -56,7 +56,7 @@
     </tr>
 </table>
     
-#### 🕢 ゲーム① クー（Coup）
+#### 🕢 ゲーム② クー（Coup）
  
  <table>
     <tr>
@@ -131,8 +131,10 @@
 
 <img src="./nimmt-banner.png" width="240">
 
-### ⬛ 🕢 今回トライするゲーム① クー（Coup）
+### ⬛ 🕢 今回トライするゲーム② クー（Coup）
 
 <img src="./coup-banner.jpg" width="240">
 
 ### ⬛ 🕢 今回トライするゲーム③ ラブレター（Love Letter）
+
+<img src="./love-letter-banner.jpg" width="240">
