@@ -279,6 +279,8 @@
     </tr>
 </table>
 
+![REMO のテーブル名](./remo-table.png)
+
 <br />
 
 # 🧩🎲 今回トライするゲーム① ニムト（6 nimmt!）
