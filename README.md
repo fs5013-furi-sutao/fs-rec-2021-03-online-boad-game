@@ -67,21 +67,21 @@
         <td>15:00 ～</td>
         <td>10分</td>
         <td>②友達の追加</td>
-        <td>[サイト](https://ja.boardgamearena.com/) 上部    
-『コミュニティ』クリック    
-→友達に加える欄にプレイヤー名を入力    
+        <td><a href="https://ja.boardgamearena.com/">サイト</a> 上部<br />
+『コミュニティ』クリック<br />
+→友達に加える欄にプレイヤー名を入力<br />
 →完了</td>
     </tr>
     <tr>
         <td>15:10 ～</td>
         <td>20分</td>
         <td>③ゲームを探す</td>
-        <td>[サイト](https://ja.boardgamearena.com/) 上部    
-『ゲームテーブルの作成・参加』クリック    
-→シンプルゲーム    
-→リアルタイム    
-→友達と遊ぶ    
-→『ゲームを探す』にゲーム名を入力    
+        <td><a href="https://ja.boardgamearena.com/">サイト</a> 上部<br />
+『ゲームテーブルの作成・参加』クリック<br />
+→シンプルゲーム<br />
+→リアルタイム<br />
+→友達と遊ぶ<br />
+→『ゲームを探す』にゲーム名を入力<br />
 →プレイ！</td>
     </tr>
 </table>
