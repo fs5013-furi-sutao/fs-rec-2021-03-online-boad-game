@@ -279,6 +279,8 @@
     </tr>
 </table>
 
+<br />
+
 ![REMO のテーブル名](./remo-table.png)
 
 <br />
