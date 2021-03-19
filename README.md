@@ -129,6 +129,8 @@
 
 ### ⬛ 🕢 今回トライするゲーム① ニムト（6 nimmt!）
 
+<img src="./nimmt-banner.png" width="240">
+
 ### ⬛ 🕢 今回トライするゲーム① クー（Coup）
 
 <img src="./coup-banner.jpg" width="240">
