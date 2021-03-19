@@ -131,6 +131,6 @@
 
 ### ⬛ 🕢 今回トライするゲーム① クー（Coup）
 
-![](./coup-banner.jpg)
+<img src="./coup-banner.jpg" width="240">
 
 ### ⬛ 🕢 今回トライするゲーム③ ラブレター（Love Letter）
