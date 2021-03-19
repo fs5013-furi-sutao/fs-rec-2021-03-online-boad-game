@@ -16,8 +16,6 @@ https://ja.boardgamearena.com/welcome
 
 ![](./go-to-register-screen-button.png)
 
----
-
 『メールアドレスでアカウントを作成』あるいは『以下のサービスと連携してアカウント作成』
 のどちらかを選んで各種情報を登録してください。
 
