@@ -140,7 +140,7 @@ https://youtu.be/KuxTF5JQKJc)
 ### ルール説明書
 
 ニムト 遊び方説明書：  
-![http://www.mobius-games.co.jp/PDF/nimmt.pdf](http://www.mobius-games.co.jp/PDF/nimmt.pdf)
+[http://www.mobius-games.co.jp/PDF/nimmt.pdf](http://www.mobius-games.co.jp/PDF/nimmt.pdf)
 
 ### ⬛ 🕢 今回トライするゲーム② クー（Coup）
 
