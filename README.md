@@ -12,6 +12,8 @@
 
 以下のページにアカウント作成方法を記載しましたので、事前にアカウント作成をお願いします。
 
+[https://github.com/fs5013-furi-sutao/fs-rec-2021-03-how-to-get-starting-online-boad-game/edit/main/README.md](./how-to-get-starting-online-boad-game.md)
+
 # ⬛ 🕢 タイムテーブル
 
 ## はじめ
