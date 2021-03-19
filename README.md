@@ -61,7 +61,7 @@
         <td>15:00 ～</td>
         <td>10分</td>
         <td>①事前にアカウントの作成</td>
-        <td>手順はこちらです<br /><a href="./how-to-get-starting-online-boad-game.md">ボードゲームアリーナでのアカウント作成手順</a></td>
+        <td>手順はこちらです：<br /><a href="./how-to-get-starting-online-boad-game.md">ボードゲームアリーナでのアカウント作成手順</a></td>
     </tr>
     <tr>
         <td>15:00 ～</td>
