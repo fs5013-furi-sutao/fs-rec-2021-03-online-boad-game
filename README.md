@@ -150,6 +150,8 @@
 
 ### 17:00 ～ 希望者が集まれば AmongUs をやります <img src="./handshake.gif" width="60">
 
+https://discord.gg/8NX59XN
+
 # ⬛ 👩‍👩‍👧‍👦 今回のグループ分け
 
 <table>
