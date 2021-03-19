@@ -135,7 +135,7 @@
 
 [![](http://img.youtube.com/vi/KuxTF5JQKJc/0.jpg)](https://youtu.be/KuxTF5JQKJc)  
 ニムト（6 nimmt!）1分半でわかるルール動画：  
-https://youtu.be/KuxTF5JQKJc)
+https://youtu.be/KuxTF5JQKJc
 
 ## ルール説明書
 
@@ -150,14 +150,24 @@ https://youtu.be/KuxTF5JQKJc)
 
 [![](http://img.youtube.com/vi/4To6XNGuXWA/0.jpg)](https://youtu.be/4To6XNGuXWA)
 クー（coup）　ルール説明＆プレイ動画：  
-https://youtu.be/4To6XNGuXWA)
+https://youtu.be/4To6XNGuXWA
 
 ## ルール説明書
 
 クー（Coup） 遊び方説明書：  
 [https://w.atwiki.jp/bga9997/pages/136.html](https://w.atwiki.jp/bga9997/pages/136.html)
 
-
 # ⬛ 🕢 今回トライするゲーム③ ラブレター（Love Letter）
 
 <img src="./love-letter-banner.jpg" width="240">
+
+## ゲーム説明動画
+
+[![](http://img.youtube.com/vi/_e4-8Q-Vzsc/0.jpg)](https://youtu.be/_e4-8Q-Vzsc)
+初めての方にオススメのボードゲーム「ラブレター」遊び方解説：  
+https://youtu.be/_e4-8Q-Vzsc
+
+## ルール説明書
+
+ラブレター（Love Letter） 遊び方説明書：  
+[http://www.arclight.co.jp/ag/ll/rule/LoveLetter_WebRule.pdf](http://www.arclight.co.jp/ag/ll/rule/LoveLetter_WebRule.pdf)
