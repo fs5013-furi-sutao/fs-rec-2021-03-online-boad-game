@@ -67,7 +67,7 @@
         <td>15:00 ～</td>
         <td>10分</td>
         <td>②友達の追加</td>
-        <td>[サイト](https://ja.boardgamearena.com/)上部
+        <td>[サイト](https://ja.boardgamearena.com/) 上部
 『コミュニティ』クリック
 →友達に加える欄にプレイヤー名を入力
 →完了</td>
@@ -76,7 +76,7 @@
         <td>15:10 ～</td>
         <td>20分</td>
         <td>③ゲームを探す</td>
-        <td>[サイト](https://ja.boardgamearena.com/)上部
+        <td>[サイト](https://ja.boardgamearena.com/) 上部
 『ゲームテーブルの作成・参加』クリック
 →シンプルゲーム
 →リアルタイム
