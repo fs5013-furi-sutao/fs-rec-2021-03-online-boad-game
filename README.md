@@ -194,20 +194,22 @@
     </tr>
 </table>
 
+<br />
+
 # 🧩🎲 今回トライするゲーム① ニムト（6 nimmt!）
 
 <img src="./nimmt-banner.png" width="240">
 
 ## ゲーム説明動画
 
-[![](http://img.youtube.com/vi/KuxTF5JQKJc/0.jpg)](https://youtu.be/KuxTF5JQKJc)  
-ニムト（6 nimmt!）1分半でわかるルール動画：  
-https://youtu.be/KuxTF5JQKJc
+> [![](http://img.youtube.com/vi/KuxTF5JQKJc/0.jpg)](https://youtu.be/KuxTF5JQKJc)  
+> ニムト（6 nimmt!）1分半でわかるルール動画：  
+> https://youtu.be/KuxTF5JQKJc
 
 ## ルール説明書
 
-ニムト 遊び方説明書：  
-[http://www.mobius-games.co.jp/PDF/nimmt.pdf](http://www.mobius-games.co.jp/PDF/nimmt.pdf)
+> ニムト 遊び方説明書：  
+> [http://www.mobius-games.co.jp/PDF/nimmt.pdf](http://www.mobius-games.co.jp/PDF/nimmt.pdf)
 
 <br />
 
