@@ -194,7 +194,7 @@
     </tr>
 </table>
 
-# ⬛ 🕢 今回トライするゲーム① ニムト（6 nimmt!）
+# 🧩🎲 今回トライするゲーム① ニムト（6 nimmt!）
 
 <img src="./nimmt-banner.png" width="240">
 
@@ -211,7 +211,7 @@ https://youtu.be/KuxTF5JQKJc
 
 <br />
 
-# ⬛ 🕢 今回トライするゲーム② クー（Coup）
+# 🧩🎲 今回トライするゲーム② クー（Coup）
 
 <img src="./coup-banner.jpg" width="240">
 
@@ -228,7 +228,7 @@ https://youtu.be/4To6XNGuXWA
 
 <br />
 
-# ⬛ 🕢 今回トライするゲーム③ ラブレター（Love Letter）
+# 🧩🎲 今回トライするゲーム③ ラブレター（Love Letter）
 
 <img src="./love-letter-banner.jpg" width="240">
 
