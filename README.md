@@ -131,6 +131,10 @@
 
 <img src="./nimmt-banner.png" width="240">
 
+#### ゲーム説明動画
+
+https://youtu.be/KuxTF5JQKJc
+
 ### ⬛ 🕢 今回トライするゲーム② クー（Coup）
 
 <img src="./coup-banner.jpg" width="240">
