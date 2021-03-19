@@ -33,7 +33,7 @@
     </tr>
 </table>
     
-#### ゲーム① ニムト（6 nimmt!）
+#### 🕢 ゲーム① ニムト（6 nimmt!）
  
  <table>
     <tr>
@@ -56,7 +56,7 @@
     </tr>
 </table>
     
-#### ゲーム① クー（Coup）
+#### 🕢 ゲーム① クー（Coup）
  
  <table>
     <tr>
@@ -79,7 +79,7 @@
     </tr>
 </table>
     
-#### ゲーム③ ラブレター（Love Letter）
+#### 🕢 ゲーム③ ラブレター（Love Letter）
  
  <table>
     <tr>
@@ -102,7 +102,7 @@
     </tr>
 </table>
     
-#### テーブルチェンジ
+#### 🕢 テーブルチェンジ
  
  <table>
     <tr>
