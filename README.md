@@ -127,6 +127,73 @@
 
 ### 17:00 ～ 希望者が集まれば AmongUs をやります <img src="./handshake.gif" width="60">
 
+# ⬛ 🕢 今回のグループ分け
+
+<table>
+    <tr>
+        <td></td>
+        <td>A テーブル</td>
+        <td>B テーブル</td>
+        <td>C テーブル</td>
+        <td>D テーブル</td>
+        <td>E テーブル</td>
+    </tr>
+    <tr>
+        <td rowspan="7">1回目のテーブル</td>
+        <td>中野義嗣</td>
+        <td>奥原</td>
+        <td>橋本</td>
+        <td>近藤</td>
+        <td>今立唯子</td>
+    </tr>
+    <tr>
+        <td>五斗圭</td>
+        <td>太田康介</td>
+        <td>太田真康</td>
+        <td>渋谷誠之</td>
+        <td>林 江里香</td>
+    </tr>
+    <tr>
+        <td>福島剛</td>
+        <td>坂口智昭</td>
+        <td>各務拓</td>
+        <td>宮田涼</td>
+        <td>稲垣来未</td>
+    </tr>
+    <tr>
+        <td>内田祐太</td>
+        <td>荒川 貴詳</td>
+        <td>山本晃大</td>
+        <td>金山哲也</td>
+        <td>青木結汰</td>
+    </tr>
+    <tr>
+        <td>青木宏行</td>
+        <td>大林達矢</td>
+        <td>森澤直之</td>
+        <td>斉藤憲吾</td>
+        <td>田中聖人</td>
+    </tr>
+    <tr>
+        <td>倉田卓弥</td>
+        <td>中島駿介</td>
+        <td>中川堅太</td>
+        <td>水野愛美</td>
+        <td>長浦真帆</td>
+    </tr>
+    <tr>
+        <td>―</td>
+        <td>―</td>
+        <td>―</td>
+        <td>―</td>
+        <td>松浦晴菜</td>
+    </tr>
+    <tr>
+        <td>2回目のテーブル</td>
+        <td colspan="5">イス取りゲーム形式でテーブルチェンジします！</td>
+    </tr>
+</table>
+
 # ⬛ 🕢 今回トライするゲーム① ニムト（6 nimmt!）
 
 <img src="./nimmt-banner.png" width="240">
