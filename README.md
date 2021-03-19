@@ -124,3 +124,5 @@
         <td>みなさん、お疲れ様でした</td>
     </tr>
 </table>
+
+### 希望者が集まれば 17:00 ～ AmongUs をやります <img src="./handshake.gif" width="120">
