@@ -133,7 +133,8 @@
 
 #### ゲーム説明動画
 
-https://youtu.be/KuxTF5JQKJc
+[![](http://img.youtube.com/vi/KuxTF5JQKJc/0.jpg)](https://youtu.be/KuxTF5JQKJc))
+https://youtu.be/KuxTF5JQKJc)
 
 ### ⬛ 🕢 今回トライするゲーム② クー（Coup）
 
