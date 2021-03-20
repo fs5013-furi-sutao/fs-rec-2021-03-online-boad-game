@@ -86,9 +86,7 @@
     </tr>
 </table>
 
-<br />
-
-#### 本日は、次の 3 つのゲームをプレイします！
+### 本日は、次の 3 つのゲームをプレイします！
 
 - ゲーム① [ニムト（6 nimmt!）](https://ja.boardgamearena.com/gamepanel?game=sechsnimmt)
 - ゲーム② [ソロ（Solo）](https://ja.boardgamearena.com/gamepanel?game=solo)
