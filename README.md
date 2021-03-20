@@ -138,25 +138,25 @@
 
 <br />
     
-## 🕢 ゲーム③ ラブレター（Love Letter）
+## 🕢 ゲーム③ お邪魔者(Saboteur)
  
  <table>
     <tr>
         <td>15:40 ～</td>
         <td>10分</td>
         <td>ゲーム③（ラブレター）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/_e4-8Q-Vzsc">動画</a> を元に）</td>
+        <td>奥原が説明します（<a href="https://youtu.be/jznUgt85YPc">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:50 ～</td>
         <td>10分</td>
-        <td>ゲーム③（ラブレター）のやり方 Q&amp;A</td>
+        <td>ゲーム③（お邪魔者）のやり方 Q&amp;A</td>
         <td>奥原が答えます</td>
     </tr>
     <tr>
         <td>16:00 ～</td>
         <td>15分</td>
-        <td>各グループでラブレターにトライ！</td>
+        <td>各グループでお邪魔者にトライ！</td>
         <td>手慣らしです。時間になったらバッサリ終了します</td>
     </tr>
 </table>
@@ -319,19 +319,19 @@
 
 <br />
 
-# 🧩🎲 今回トライするゲーム③ ラブレター（Love Letter）
+# 🧩🎲 今回トライするゲーム③ お邪魔者(Saboteur)
 
 <img src="./love-letter-banner.jpg" width="240">
 
 > ## ゲーム説明動画
 > 
-> [![](http://img.youtube.com/vi/_e4-8Q-Vzsc/0.jpg)](https://youtu.be/_e4-8Q-Vzsc)    
-> 初めての方にオススメのボードゲーム「ラブレター」遊び方解説（8分42秒）：  
-> https://youtu.be/_e4-8Q-Vzsc
+> [![](http://img.youtube.com/vi/jznUgt85YPc/0.jpg)](https://youtu.be/jznUgt85YPc)    
+> フクハナのボードゲーム紹介 お邪魔者（13分14秒）：  
+> https://youtu.be/jznUgt85YPc
 
 > ## ルール説明書
 > 
-> ラブレター（Love Letter） 遊び方説明書：  
-> [http://www.arclight.co.jp/ag/ll/rule/LoveLetter_WebRule.pdf](http://www.arclight.co.jp/ag/ll/rule/LoveLetter_WebRule.pdf)
+> お邪魔者(Saboteur) 遊び方説明書：  
+> [https://www.tk-game-diary.net/saboteur/saboteur.html](https://www.tk-game-diary.net/saboteur/saboteur.html)
 
 <br />
