@@ -113,25 +113,25 @@
 
 <br />
     
-## 🕢 ゲーム② クー（Coup）
+## 🕢 ゲーム② ソロ（Solo）
  
  <table>
     <tr>
         <td>15:05 ～</td>
         <td>10分</td>
-        <td>ゲーム②（クー）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/4To6XNGuXWA">動画</a> を元に）</td>
+        <td>ゲーム②（ソロ）のやり方説明</td>
+        <td>奥原が説明します（<a href="https://youtu.be/kqQRgQNVX-I">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:15 ～</td>
         <td>10分</td>
-        <td>ゲーム②（クー）のやり方 Q&amp;A</td>
+        <td>ゲーム②（ソロ）のやり方 Q&amp;A</td>
         <td>奥原が答えます</td>
     </tr>
     <tr>
         <td>15:25 ～</td>
         <td>15分</td>
-        <td>各グループでクーにトライ！</td>
+        <td>各グループでソロにトライ！</td>
         <td>手慣らしです。時間になったらバッサリ終了します</td>
     </tr>
 </table>
@@ -302,20 +302,20 @@
 
 <br />
 
-# 🧩🎲 今回トライするゲーム② クー（Coup）
+# 🧩🎲 今回トライするゲーム② ソロ（Solo）
 
 <img src="./coup-banner.jpg" width="240">
 
 > ## ゲーム説明動画
 > 
-> [![](http://img.youtube.com/vi/4To6XNGuXWA/0.jpg)](https://youtu.be/4To6XNGuXWA)  
-> クー（coup）　ルール説明＆プレイ動画（13分28秒）：  
-> https://youtu.be/4To6XNGuXWA
+> [![](http://img.youtube.com/vi/kqQRgQNVX-I/0.jpg)](https://youtu.be/kqQRgQNVX-I)  
+> UNOの進化版！？ソロ（SOLO）のルール解説！（1分37秒）：  
+> https://youtu.be/kqQRgQNVX-I
 
 > ## ルール説明書
 > 
-> クー（Coup） 遊び方説明書：  
-> [https://w.atwiki.jp/bga9997/pages/136.html](https://w.atwiki.jp/bga9997/pages/136.html)
+> ソロ（Solo） 遊び方説明書：  
+> [https://w.atwiki.jp/bga9997/pages/114.html](https://w.atwiki.jp/bga9997/pages/114.html)
 
 <br />
 
